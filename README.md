@@ -7,7 +7,7 @@ Sergio Jiménez, profesor del Bootcamp Full-Stack Web Developer, nos enseña a c
 
 ## Vídeo
 
-Toda la explicación está en el siguiente vídeo: [Vídeo-yotube](https://youtu.be/zUpCr78h41g)
+Toda la explicación está en el siguiente vídeo: [Cómo crear un Figcaption animado con HTML y CSS](https://youtu.be/zUpCr78h41g)
 
 ## Descubre más sobre nosotros 🌍
 
